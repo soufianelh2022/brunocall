@@ -2,9 +2,9 @@
 	"ADS":
 		   {
 		
-			"banner_type":"facebook",
+			"banner_type":"admob",
 			"inter_type":"admob",
-			"native_type":"facebook",
+			"native_type":"admob",
 			
 			
 			
@@ -16,9 +16,9 @@
 			"native_yandex":"ca-app-pub-4567",
 			"rewarde_yandex":"ca-app-pub-4567",
 
-			"banner_admob":"ca-app-pub56099942",
-			"interstitial_admob":"ca-app-pub-567",
-			"native_admob":"ca-app-pub-4567",
+			"banner_admob":"ca-app-pub-4895400046434961/3856390856",
+			"interstitial_admob":"ca-app-pub-4895400046434961/9358594007",
+			"native_admob":"ca-app-pub-4895400046434961/2793185658",
 			 "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",  
    
 			"banner_admob1":"ca-app56789",
